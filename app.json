@@ -1,0 +1,5 @@
+{
+    "name": "line notify demo",
+    "description": "a basic line notify web-api at heroku",
+    "repository": "https://github.com/maloyang/one-click-line-notify"
+}
